@@ -12,7 +12,6 @@ int main()
     float celsius;
     float fahrenheit;
 
-
     cout << "Введите градусы в цельсиях: ";
     cin >> celsius;
 
@@ -26,11 +25,4 @@ int main()
     celsius = (fahrenheit - 32) / fahrenheit_to_celsius;
 
     cout << fahrenheit << " градусов фаренгейта в цельсиях это " << celsius << "\n";
-
-
-
-
-
-
-
 }
