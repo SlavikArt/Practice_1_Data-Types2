@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Celsius_To_ Fahrenheit.cpp">
+    <ClCompile Include="Celsius_To_Fahrenheit.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

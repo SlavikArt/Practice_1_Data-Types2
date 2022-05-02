@@ -24,6 +24,7 @@
     <ProjectGuid>{682fc17e-e82c-4fcb-95f6-387859ac186a}</ProjectGuid>
     <RootNamespace>CelsiusToFahrenheit</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Celsius_To_Fahrenheit</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Celsius_To_ Fahrenheit.cpp" />
+    <ClCompile Include="Celsius_To_Fahrenheit.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
